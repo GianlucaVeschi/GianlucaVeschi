@@ -1,5 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning Kotlin
+I'm an entrepreneurial engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics ✨
+  
+🔭 I'm in the Software Industry since 2018 and have been working in Germany and China :) 
+🌱 Currently learning Kotlin and looking for a new Android Development job in Berlin!
 
 
 <!--
