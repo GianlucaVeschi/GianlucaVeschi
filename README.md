@@ -1,9 +1,11 @@
 ### Hi there 👋
 I'm an entrepreneurial engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics ✨
   
-🔭 I'm in the Software Industry since 2018 and have been working in Germany and China
+⚡ I'm in the Software Industry since 2018 and have since then worked in Hamburg(Germany) and Shanghai(China).
 
 🌱 Currently learning Kotlin and looking for a new Android Development job in Berlin!
+
+🔭 I will graduate in October 2020 with a theis called "Assembly, Design and Control of FPV Quadcopters for Healthcare Applications during the Covid pandemic" and would love to get some help with embdedded programming of flight controllers
 
 
 <!--
