@@ -5,7 +5,7 @@ I'm an entrepreneurial engineer from Italy trying to combine my passions for Sof
 
 🌱 Currently learning Kotlin and looking for a new Android Development job in Berlin!
 
-🔭 I will graduate in October 2020 with a theis called "Assembly, Design and Control of FPV Quadcopters for Healthcare Applications during the Covid pandemic" and would love to get some help with embdedded programming of flight controllers
+🔭 I will graduate in October 2020 with a thesis called "Assembly, Design and Control of FPV Quadcopters for Healthcare Applications during the Covid pandemic" and would love to get some help with embdedded programming of flight controllers
 
 
 <!--
