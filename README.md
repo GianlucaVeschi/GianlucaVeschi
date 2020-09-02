@@ -7,6 +7,7 @@ I'm an entrepreneurial engineer from Italy trying to combine my passions for Sof
 
 🔭 I will graduate in October 2020 with a thesis called "Assembly, Design and Control of FPV Quadcopters for Healthcare Applications during the Covid pandemic" and would love to get some help with embedded programming of flight controllers
 
+⚡ Fun fact: When I was 14 I won the Italian Rubik's Cube Championship for the 7x7x7 and held that record until 2013. Speedcubing taught me a lot about self-learning and algorithmic thinking. 
 
 <!--
 **GianlucaVeschi/GianlucaVeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
