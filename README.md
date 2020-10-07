@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an entrepreneurial engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics ✨
+I'm an entrepreneurial engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics 
   
 ⚡ I'm in the Software Industry since 2018 and have since then worked in Hamburg (Germany) and Shanghai (China).
 
