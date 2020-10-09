@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm an entrepreneurial engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics 
+I'm a software engineer from Italy trying to combine my passions for Software development, Finance and Geopolitics 
   
-⚡ I'm in the Software Industry since 2018 and have since then worked in Hamburg (Germany) and Shanghai (China).
+⚡ I have been developing actively since 2018 and have since then worked in Hamburg (Germany) and Shanghai (China).
 
-🌱 Currently learning Kotlin and looking for a new Android Development job in Berlin!
+🌱 Currently improving my Kotlin skills for Android Development
 
-🔭 I will graduate in October 2020 with a thesis called "Assembly, Design and Control of FPV Quadcopters for Healthcare Applications during the Covid pandemic" and would love to get some help with embedded programming of flight controllers
+🔭 I will graduate in November 2020 with a thesis called "Assembly and Design of FPV Quadcopters for Healthcare Applications during the Covid pandemic"
 
 ⚡ Fun fact: When I was 14 I won the Italian Rubik's Cube Championship for the 7x7x7 and held that record until 2013. Speedcubing taught me a lot about self-learning and algorithmic thinking. 
 
