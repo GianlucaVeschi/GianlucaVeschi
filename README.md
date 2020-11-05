@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer from Italy currently working in Berlin (Germany).
+I'm a software developer from Italy currently working as Junior Android Developer at Thalia in Berlin (Germany).
   
 ⚡ I have been developing actively since 2018 and have since then worked in Hamburg (Germany) and Shanghai (China).
 
