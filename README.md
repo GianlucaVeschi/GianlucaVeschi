@@ -1,14 +1,6 @@
 ### Hi there 👋
 I'm a software developer from Italy currently working as Junior Android Developer at Thalia in Berlin (Germany).
   
-⚡ I have been developing actively since 2018 and have since then worked in Hamburg (Germany) and Shanghai (China).
-
-🌱 Currently improving my Kotlin skills for Android Development
-
-🔭 I will graduate in November 2020 with a thesis called "Assembly and Design of FPV Quadcopters for Healthcare Applications during the Covid pandemic"
-
-⚡ Fun fact: When I was 14 I won the Italian Rubik's Cube Championship for the 7x7x7 and held that record until 2013. Speedcubing taught me a lot about self-learning and algorithmic thinking. 
-
 <!--
 **GianlucaVeschi/GianlucaVeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
