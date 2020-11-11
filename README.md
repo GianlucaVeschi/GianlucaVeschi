@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software developer from Italy currently working as Junior Android Developer at Thalia in Berlin (Germany).
+I'm a software developer from Italy currently working as Junior Android Developer at Thalia GmbH in Berlin (Germany).
   
 <!--
 **GianlucaVeschi/GianlucaVeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
