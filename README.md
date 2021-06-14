@@ -1,13 +1,9 @@
 <h1 align="center"> Hi there 👋, I am Gianluca </h1>
 
-- 🔆 Currently living in Berlin
+- 📱 Junior Android Developer at Perfümerie Douglas GmbH
+- 🍕 Born and raised in Italy
+- ⛅ Currently living in Berlin
 
-- :crystal_ball: MSc. in Intelligent Adaptive Systems / BSc. in Telecommunications Engineering
-
-- 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/nicolasperezdeo/) or send me an [email](mailto:nicolasperezdeo@gmail.com)
-
-- 😄 Pronouns: He/him
-I'm a Software Engineer from Italy currently working as Junior Android Developer at Thalia GmbH in Berlin (Germany)
 
 ## Skills:
 
