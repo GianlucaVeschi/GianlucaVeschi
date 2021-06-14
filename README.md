@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm a Software Engineer from Italy currently working as Junior Android Developer at Thalia GmbH in Berlin (Germany)
+
+Skills:
+
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/>
   
 <!--
 **GianlucaVeschi/GianlucaVeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
