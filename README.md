@@ -2,8 +2,9 @@
 
 - 📱 Junior Android Developer at Perfümerie Douglas GmbH
 - 🍕 Born and raised in Italy
-- ⛅ Currently living in Berlin
-
+- ⛅ Living in Berlin
+- 💸 Interested in Fintech
+- 🔭 Currently looking for oppurtunities in Israel/China/South East Asia
 
 ## Skills:
 
