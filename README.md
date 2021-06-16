@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I am Gianluca </h1>
 
-- 📱 Junior Android Developer at Perfümerie Douglas GmbH
+- 📱 Junior Android Developer at Thalia Bücher/Perfümerie Douglas
 - 🍕 Born and raised in Italy
 - ⛅ Living in Berlin
 - 💸 Interested in Fintech
