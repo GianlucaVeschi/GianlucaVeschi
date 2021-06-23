@@ -1,8 +1,10 @@
 <h1 align="center"> Hi there 👋 I am Gianluca </h1>
 
 - 📱 Junior Android Developer at Thalia Bücher/ Perfümerie Douglas
+- 🤖 Bsc. in Information Engineering - HAW Hamburg
 - 🍕 Born and raised in Italy
-- ⛅ Living in Berlin
+- ⛅ Currently living in Berlin
+- 🇨🇳 Mandarin enthusiast
 - 💸 Interested in Fintech
 - 🔭 Currently looking for oppurtunities in Israel/China/South East Asia
 
