@@ -4,7 +4,7 @@
 - 🤖 Bsc. in Information Engineering - HAW Hamburg
 - 🍕 Born and raised in Italy
 - ⛅ Currently living in Berlin
-- 🇨🇳 Mandarin enthusiast
+- 🇨🇳 Mandarin enthusiast 海南华侨中学 - 上海理工大学
 - 💸 Interested in Fintech
 - 🔭 Currently looking for oppurtunities in Israel/China/South East Asia
 
