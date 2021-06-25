@@ -2,8 +2,8 @@
 
 - 📱 Junior Android Developer at Thalia Bücher/ Perfümerie Douglas
 - 🤖 Bsc. in Information Engineering - HAW Hamburg
-- 🍕 Born and raised in Italy
-- ⛅ Living in Berlin
+- 🇮🇹 Born and raised in Italy
+- 🇩🇪 Living in Berlin
 - 🇨🇳 Mandarin enthusiast 海南华侨中学 - 上海理工大学
 - 💸 Interested in Fintech
 - 🔭 Looking for oppurtunities in Israel/China/South East Asia
