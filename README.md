@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Gianluca </h1>
 
-- 📱 Android Engineer at Trade Republic Bank
+- 📱 Android Engineer at Qonto
 - 🤖 Bsc. in Information Engineering - HAW Hamburg
 - 🇮🇹 Born and raised in Italy
 - 🇩🇪 Living in Berlin
