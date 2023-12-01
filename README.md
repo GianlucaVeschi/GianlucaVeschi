@@ -3,7 +3,7 @@
 - 📱 Android Engineer at Qonto
 - 🤖 Bsc. in Information Engineering - HAW Hamburg
 - 🇮🇹 Born and raised in Italy
-- 🇩🇪 Living in Berlin
+- 🇩🇪 Living in Paris
 - 🇨🇳 Mandarin enthusiast 海南华侨中学 - 上海理工大学
 - 💸 Interested in Fintech
 - 🔭 Looking for oppurtunities in Israel/China/South East Asia
