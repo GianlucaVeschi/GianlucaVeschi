@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Gianluca </h1>
 
-- 📱 Android Engineer at Qonto
+- 📱 Android Engineer at GetYourGuide
 - 🤖 Bsc. in Information Engineering - HAW Hamburg
 - 🇮🇹 Born and raised in Italy
 - 🇨🇳 Mandarin enthusiast 海南华侨中学 - 上海理工大学
