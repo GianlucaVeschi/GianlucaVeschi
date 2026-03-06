@@ -7,8 +7,8 @@
 - 💸 Interested in Fintech
 
 ## Cool Projects
-- [Prenotami Berlin](https://github.com/GianlucaVeschi/PrenotamiBerlin/edit/main/README.md) A python bot to book appointments at the Italian embassy in Berlin
-- [Fiesta Global Mobile App](https://github.com/GianlucaVeschi/FiestaGlobalMobileApp) KMP project targeting Android/iOS app of the Fiesta Global festival in Italy
+- 🐍 [Prenotami Berlin](https://github.com/GianlucaVeschi/PrenotamiBerlin/edit/main/README.md) A python bot to book appointments at the Italian embassy in Berlin
+- 🤹 [Fiesta Global Mobile App](https://github.com/GianlucaVeschi/FiestaGlobalMobileApp) KMP project targeting Android/iOS app of the Fiesta Global festival in Italy
 
 ## Contacts
 - 💬 gianluca.veschi00(@)gmail.com
