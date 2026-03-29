@@ -9,6 +9,7 @@
 ## Cool Projects
 - 🐍 [Prenotami Berlin](https://github.com/GianlucaVeschi/PrenotamiBerlin/edit/main/README.md) A python bot to book appointments at the Italian embassy in Berlin
 - 🤹 [Fiesta Global Mobile App](https://github.com/GianlucaVeschi/FiestaGlobalMobileApp) KMP project targeting Android/iOS app of the Fiesta Global festival in Italy
+- 👷 [Groundsync - The Decision Layer for Construction Projects](https://groundsync-v1.web.app/) React Project built for Architecture studios 
 
 ## Conferences
 - 🇫🇷 [Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer](https://androidmakers.droidcon.com/2026/gianluca-veschi)
