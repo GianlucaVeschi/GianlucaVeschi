@@ -12,9 +12,9 @@
 - 👷 [NodeArq - The Decision Layer for Construction Projects](https://nodearq.com/) React Project built for Architecture studios 
 
 ## Conferences
-- 🇫🇷 [Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer](https://androidmakers.droidcon.com/2026/gianluca-
-veschi)
-- 🇩🇪 [Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer]([https://androidmakers.droidcon.com/2026/gianluca-veschi](https://www.nextappcon.com/droidcon-new-speakers/gianluca-veschi))
+- 🇫🇷 [Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer](https://androidmakers.droidcon.com/2026/gianluca-veschi)
+- 🇩🇪 [Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer](https://www.nextappcon.com/droidcon-new-speakers/gianluca-veschi)
+
 
 ## Personal Blog
 - ✍️ www.gianlucaveschi.com
