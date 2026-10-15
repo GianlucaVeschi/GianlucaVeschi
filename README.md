@@ -14,7 +14,7 @@
 
 ## Conferences
 - 🇫🇷 [Android Makers 2026 - Paris](https://androidmakers.droidcon.com/2026/gianluca-veschi) Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer
-- 🇩🇪 [GetYourGuide Summit 2026 - Berlin]([https://www.nextappcon.com/droidcon-new-speakers/gianluca-veschi](https://lnkd.in/p/d2RSqGfd)) The future of AI is on-device
+- 🇩🇪 [GetYourGuide Summit 2026 - Berlin](https://www.nextappcon.com/droidcon-new-speakers/gianluca-veschi]](https://lnkd.in/p/d2RSqGfd)) The future of AI is on-device
 - 🇩🇪 [NextCon 2026 - Berlin](https://www.nextappcon.com/droidcon-new-speakers/gianluca-veschi) Crossing the Stack: How Backend Insights Made Me a Stronger Mobile Developer
 
 
